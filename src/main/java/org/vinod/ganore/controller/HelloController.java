@@ -1,4 +1,4 @@
-package org.vinod.ganore.hello;
+package org.vinod.ganore.controller;
 
 import org.springframework.web.bind.annotation.RequestMapping;
 import org.springframework.web.bind.annotation.RestController;
