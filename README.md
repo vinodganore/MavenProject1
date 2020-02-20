@@ -19,3 +19,10 @@ Testing webhook2
 Testing webhook3
 Testing webhook4
 
+## Spring boot project
+-->new spring boot project has been created with Rest services 
+-->It covers all the Request methods GET , POST , DELETE and PUT method types 
+-->The services are tested using postman 
+-->with hardcoded values.
+###### Ref: java brains (Kaushik sir)
+
