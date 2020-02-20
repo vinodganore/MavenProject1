@@ -10,7 +10,7 @@
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
-      <module name="MyFirstMavenProject" target="1.7" />
+      <module name="MyFirstMavenProject" target="8" />
     </bytecodeTargetLevel>
   </component>
   <component name="JavacSettings">
